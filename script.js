@@ -65,3 +65,12 @@ for (let call of callBtn) {
     }
   });
 }
+
+// Clear Button Activation
+
+let clearBtn = document.getElementById('clear-btn');
+
+clearBtn.addEventListener('click', function(){
+    let callHistory = document.getElementById("call-history");
+    callHistory.innerHTML = '';
+})
