@@ -7,7 +7,7 @@ Ans:
 
 2. How do you create and insert a new element into the DOM?
 
-Ans:
+Ans: 
 
 3. What is Event Bubbling and how does it work?
 
@@ -19,4 +19,4 @@ Ans:
 
 5. What is the difference between preventDefault() and stopPropagation() methods?
 
-Ans:
+Ans: 
