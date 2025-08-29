@@ -50,7 +50,7 @@ Ans:
  
 Event Delegation =>  set event handler in parent and use their child elements to see the action of event. 
 
-Usefulness of Event Delegation => It can collapse the code to reduce the error in coding.
+Usefulness of Event Delegation => It can collapse the code to reduce errors in coding. 
 
 5. What is the difference between preventDefault() and stopPropagation() methods?
 
